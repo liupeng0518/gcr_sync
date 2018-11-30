@@ -17,6 +17,8 @@ before_install:
 - export start_time=$(date +%s)
 - mkdir -p ~/.docker
 - mkdir -p ~/.ssh 
+- echo $encrypted_1fc90f464345_key 
+- echo $encrypted_1fc90f464345_iv
 - openssl aes-256-cbc -K $encrypted_1fc90f464345_key -iv $encrypted_1fc90f464345_iv
   -in .travis/config.tar.gz.enc -out ~/config.tar.gz -d
 - tar zxf ~/conf.tar.gz -C ~
