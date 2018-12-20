@@ -1,4 +1,4 @@
-i#!/bin/bash
+#!/bin/bash
 max_process=$1
 MY_REPO=liupeng0518
 interval=.
