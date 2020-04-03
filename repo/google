@@ -1,4 +1,4 @@
-google_samples
-kubernetes-helm
 google_containers
 kubebuilder
+google_samples
+kubernetes-helm
