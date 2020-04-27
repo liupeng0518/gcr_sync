@@ -1,5 +1,5 @@
-google_containers
-kubebuilder
 k8s-staging-cluster-api
 google_samples
 kubernetes-helm
+google_containers
+kubebuilder
