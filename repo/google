@@ -1,6 +1,6 @@
-google_containers
-google_samples
-k8s-staging-cluster-api
 kubernetes-helm
+google_containers
 kubebuilder
 knative-releases
+google_samples
+k8s-staging-cluster-api
