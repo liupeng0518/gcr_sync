@@ -3,4 +3,3 @@ kubernetes-helm
 kubebuilder
 knative-releases
 google_samples
-k8s-staging-cluster-api
