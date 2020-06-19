@@ -1,4 +1,6 @@
 google_containers
+knative-releases/knative.dev/serving/cmd
+knative-releases/knative.dev/net-kourier/cmd
 kubernetes-helm
 kubebuilder
 knative-releases
