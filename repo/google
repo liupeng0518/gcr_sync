@@ -1,7 +1,5 @@
 google_containers
 kubernetes-helm
-knative-releases/knative.dev/serving/cmd
-knative-releases/knative.dev/net-kourier/cmd
 kubebuilder
 knative-releases
 google_samples
