@@ -1,5 +1,5 @@
-kubebuilder
 knative-releases
 google_samples
 google_containers
 kubernetes-helm
+kubebuilder
