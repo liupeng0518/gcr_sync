@@ -1,1 +1,8 @@
-cluster-api-controller-s390x
+activator-2d008c4c36689d255523e5fa210c0bec
+autoscaler-b41733a3e5694e8fc64777bdfd8e791a
+controller-43f0364ab2f6dab17267e80a1f6a4adc
+knative-kafka-broker-dispatcher
+knative-kafka-broker-receiver
+knative-kafka-sink-receiver
+queue-7204c16e44715cd30f78443fb99e0f58
+webhook-37fa64b5b216d563332fd3210a121e52
