@@ -1,6 +1,7 @@
+distroless
 google_containers
 kubernetes-helm
 kubebuilder
 knative-releases
 google_samples
-distroless
+
